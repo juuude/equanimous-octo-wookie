@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+
+}
+
+header {
+    text-align: right;
+    font-family: monospace;
+}
+.moche {
+    filter: sepia(1);
+    -webkit-filter: sepia(1);
+    -moz-filter: sepia(1);
+    -o-filter: sepia(1);
+    -ms-filter: sepia(1);
+    border-radius: 200px;
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+}
+.love {
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+}
+.class {
+    text-align: center;
+
+}
+article {
+  background-color: black;
+  color: white;
+
+}
+
+p {
+  margin-left: 15px;
+
+}
+h1 {
+  margin-bottom: 50px;
+}
